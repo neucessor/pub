@@ -22,5 +22,12 @@ https://www.youtube.com/user/strictlydumpling
 https://www.youtube.com/user/thefoodranger
 
 # Transport
-## Downtown - Airport: Railink
+## Downtown - Airport
+### Railink Train
 https://www.thejakartapost.com/travel/2018/01/04/riding-the-soekarno-hatta-airport-train-a-guide.html
+
+### DAMRI bus
+
+# Apps
+## https://www.go-jek.com/
+## https://www.grab.com/id/en/
