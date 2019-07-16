@@ -42,7 +42,7 @@
 
 - https://www.thejakartapost.com/travel/2018/01/04/riding-the-soekarno-hatta-airport-train-a-guide.html
 
-- If going for convenience, use Taxi: Blue Bird, Express, Gamya, Silver Bird (upscale) 
+### If going for convenience, use Taxi: Blue Bird, Express, Gamya, Silver Bird (upscale) 
 
 ### DAMRI bus
 
