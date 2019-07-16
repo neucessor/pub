@@ -12,12 +12,12 @@
 |durian pancake
 |Satay|Sate khas senayan
 |Sop buntut (ox tail soup)
-|Bakso/meatball|find reputable vendor
+|Bakso (meatball soup)|
 |Es campur
 |Gado gado
 |nasi padang (always spicy)
 |sop kambing (mutton soup)
-|siomay
+|Siomay
 |Nasi Liwet
 |Nasi Uduk
 |Fried fish with Sambal (very hot/spicy)|Warung Mak Beng, Sanur
@@ -36,11 +36,13 @@
 - https://www.youtube.com/user/thefoodranger
 
 # Transport
-## Downtown - Airport
+## Downtown Jakarta - Airport
 ### Railink Train
 - https://www.railink.co.id/index.php/train/en
 
 - https://www.thejakartapost.com/travel/2018/01/04/riding-the-soekarno-hatta-airport-train-a-guide.html
+
+- If going for convenience, use Taxi: Blue Bird, Express, Gamya, Silver Bird (upscale) 
 
 ### DAMRI bus
 
