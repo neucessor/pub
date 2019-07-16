@@ -8,7 +8,6 @@
 |Gudeg
 |Ketoprak
 |Tempeh
-|Ice cream|Ragusa ice cream
 |durian pancake
 |Satay|Sate khas senayan
 |Sop buntut (ox tail soup)
