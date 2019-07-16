@@ -24,26 +24,26 @@
 
 # Places
 ## Jakarta
-Kota Tua: park with old Dutch theme
-Monas (Monument Nasional)
-Taman Mini Indonesia Indah (if interested in cultures)
-Batavia Cafe
-Jamu Cafe
+- Kota Tua: park with old Dutch theme
+- Monas (Monument Nasional)
+- Taman Mini Indonesia Indah (if interested in cultures)
+- Batavia Cafe
+- Jamu Cafe
 
 # Youtube
-https://www.youtube.com/user/strictlydumpling
+- https://www.youtube.com/user/strictlydumpling
 
-https://www.youtube.com/user/thefoodranger
+- https://www.youtube.com/user/thefoodranger
 
 # Transport
 ## Downtown - Airport
 ### Railink Train
-https://www.railink.co.id/index.php/train/en
+- https://www.railink.co.id/index.php/train/en
 
-https://www.thejakartapost.com/travel/2018/01/04/riding-the-soekarno-hatta-airport-train-a-guide.html
+- https://www.thejakartapost.com/travel/2018/01/04/riding-the-soekarno-hatta-airport-train-a-guide.html
 
 ### DAMRI bus
 
 # Apps
-## https://www.go-jek.com/
-## https://www.grab.com/id/en/
+-  https://www.go-jek.com/
+-  https://www.grab.com/id/en/
